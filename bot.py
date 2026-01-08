@@ -19,8 +19,8 @@ is_cooldown_active = False
 cooldown_end_time = 0
 current_target = ""
 MAX_ATTACK_TIME = 300
-PACKET_SIZE = 1024
-THREADS = 2200
+PACKET_SIZE = 51
+THREADS = 999
 COOLDOWN_TIME = 360  # 6 minutes cooldown after attack
 COOLDOWN_NOTIFICATION_SENT = False
 
