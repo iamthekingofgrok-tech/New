@@ -7,8 +7,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Messa
 from telegram import Update
 from datetime import datetime
 
-TELEGRAM_TOKEN = "TOKEN_HERE"
-ADMIN_ID = 1234567890
+TELEGRAM_TOKEN = "8554808972:AAGJ7UjH73RAUS3cSWTwtR6KgWZ5NGcr_F8"
+ADMIN_ID = 6225091720
 CONFIG_FILE = "github_config.json"
 USERS_FILE = "approved_users.json"
 GROUPS_FILE = "approved_groups.json"
