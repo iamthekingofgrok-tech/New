@@ -3,9 +3,7 @@ import asyncio
 import aiohttp
 import json
 import os
-from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
-from telegram import Update
-from datetime import datetime
+
 
 TELEGRAM_TOKEN = "8554808972:AAGJ7UjH73RAUS3cSWTwtR6KgWZ5NGcr_F8"
 ADMIN_ID = 6225091720
